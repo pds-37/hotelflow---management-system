@@ -1,0 +1,4 @@
+{
+  "name": "HotelFlow - Management System",
+  "description": "A comprehensive Hotel Management System featuring Room, Guest, Booking, and Payment management with an AI-powered staff assistant. This application runs entirely in the browser using LocalStorage for data persistence, demonstrating a full MVC-like architecture in a React SPA."
+}
